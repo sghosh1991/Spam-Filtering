@@ -1,0 +1,18 @@
+
+This code is designed to do a naive bayes classification using Binary abd tern frequecy methods of prior probability calculation.
+
+Prerequisites:
+
+In order to run the code put the code as well the train and test data in a single directory.
+
+Test File Name should be: test
+Training File Name Should be : train
+
+Python Interpreter: This code was developed for Python 2.7. Using Python 3.4 may break the code.
+
+Command Execution:
+
+>python BayesClassifier.py
+
+
+
